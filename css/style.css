@@ -1,0 +1,20 @@
+body{
+    background-color: lightcoral;
+    margin: 20px;
+}
+
+li{
+    display: inline;
+}
+
+img{
+    height: 250px;
+    width: 40%;
+    position: center;
+    border-style: dotted;
+}
+
+p{
+    color: purple;
+    background-color: yellowgreen;
+}
